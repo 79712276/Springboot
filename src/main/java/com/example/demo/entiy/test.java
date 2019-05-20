@@ -12,4 +12,5 @@ import java.util.Date;
 @Data
 public class test {
   private int id;
+  private int id2;
 }
